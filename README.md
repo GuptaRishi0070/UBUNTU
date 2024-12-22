@@ -1,5 +1,7 @@
 # UBUNTU
 UBUNTU
+# UBUNTU
+UBUNTU
 root@srv620706:/home/ubuntu/algo_trading_backend# history
   744  cd 
   745  ls
@@ -1001,3 +1003,4 @@ root@srv620706:/home/ubuntu/algo_trading_backend# history
  1741  cd algo_trading_backend
  1742  pm2 stop server
  1743  history
+
